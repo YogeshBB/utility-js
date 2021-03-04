@@ -5,4 +5,4 @@ const max = (arr) => {
   arr.reverse();
   return arr[0];
 }
-module.export = max;
+module.exports = max;
